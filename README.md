@@ -13,14 +13,43 @@ La aplicación cuenta también con un sistema de benchmarking para medir el rend
 
 # Personas
 Para el desarrollo de este software, hemos utilizado diversas personas para cumplir los requisitos de distintos tipos de usuarios en cuanto a usabilidad y accesibilidad del proyecto.
-Las personas creadas son:
+Las personas creadas son:   
 
-![Teresa](./assets/teresa.PNG)
+---
+
+![Teresa](./assets/teresa.jpg)
+
+
+<img align="center" src="./assets/teresa.jpg"/>
+
 Teresa Lozano Yung es una mujer de 45 años que trabaja de Gestora de Sistemas Informáticos en un departamento de la ONCE.
 Quiere obtener un ascenso en su puesto de trabajo. Para ello, quiere demostrar su valía y mejorar el rendimiento de su equipo de trabajo, optimizando el funcionamiento de los ordenadores que utilizan.
 
+---
+
 ![Guillermo](./assets/guillermo.jpg)
+
 Guillermo Nieto tiene 45 años, es Licenciado en Ingeniería de Telecomunicaciones. Usa easySetup con asiduidad para encontrar piezas nuevas y mantener su equipo siempre actualizado.
+
+---
 
 ![Sergi](./assets/sergi.jpg)
 
+Sergi Abelló es un estudiante de 19 años que necesita comprar un nuevo ordenador para recibir clases online.
+
+---
+
+Puedes encontrar más información sobre las personas [aquí](./)
+
+# Escenarios
+
+- **Escenario de Teresa Lozano Yung**
+
+Teresa instala e
+
+- **Escenario de Guillermo Nieto**
+
+- **Escenario de Sergi Abelló**
+# Plan de entregas del producto
+
+# Product Backlog
