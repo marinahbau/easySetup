@@ -19,8 +19,9 @@ Las personas creadas son:
 
 ![Teresa](./assets/teresa.jpg)
 
-
-<img align="center" src="./assets/teresa.jpg"/>
+<div text-align="center">
+    <img src="./assets/teresa.jpg"/>
+</div>
 
 Teresa Lozano Yung es una mujer de 45 años que trabaja de Gestora de Sistemas Informáticos en un departamento de la ONCE.
 Quiere obtener un ascenso en su puesto de trabajo. Para ello, quiere demostrar su valía y mejorar el rendimiento de su equipo de trabajo, optimizando el funcionamiento de los ordenadores que utilizan.
@@ -45,11 +46,25 @@ Puedes encontrar más información sobre las personas [aquí](./)
 
 - **Escenario de Teresa Lozano Yung**
 
-Teresa instala e
+Teresa instala easySetup en todos los equipos de su departamento para realizar un análisis exhaustivo y mejorar en la medida de lo posible el rendimiento general de los ordenadores
+
+---
 
 - **Escenario de Guillermo Nieto**
 
+---
+
 - **Escenario de Sergi Abelló**
+
+
+# Documento de Visión 
+Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes enc
 # Plan de entregas del producto
+## Velocidad del equipo
+Las iteraciones que hemos realizado han tenido una duración de 2 semanas. La estimiación realizada del esfuerzo de cad auna de las historias de usuario se ha expresado en días ideales de programación. En nuestro entorno de trabajo estimamos que un día ideal de programación (1,6h) se va a corresponder con 3 o 4 días reales de trabajo.
+
+La duración de una iteración va a ser:
+
+**1 iteración = 2 semanas = 10 días reales*
 
 # Product Backlog
