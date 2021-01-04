@@ -1,5 +1,3 @@
 # easySetup
- Repositorio del proyecto easySetup, software desarrollado para la asignatura Metodologías de Desarrollo Ágil de la Universidad de Granada
-
-
+ Una única aplicación para comparar tu hardware, descubrir piezas nuevas, conocer gente con tus intereses y mantener tu equipo a punto con los últimos controladores y actualizaciones
 

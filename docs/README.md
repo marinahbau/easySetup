@@ -1,2 +1,0 @@
-# easySetup
- Una única aplicación para comparar tu hardware, descubrir piezas nuevas, conocer gente con tus intereses y mantener tu equipo a punto con los últimos controladores y actualizaciones
