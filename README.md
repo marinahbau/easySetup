@@ -147,7 +147,7 @@ Estas reuniones están documentadas y pueden verse en los documetos adjuntos en 
 - Equipo de desarrollo: formado por Marina Hernández Bautista, Miguel Ángel Posadas Arraez. Encargados de la implementación y prototipado del proyecto.
 
 ## Entrega 1
-### Iteración 1
+### **Iteración 1**
 <div align="justify"> 
 El objetivo que se ha diseñado para esta primera iteración es tener una aplicación de escritorio que nos permita realizar búsquedas de piezas
 software mediante filtros, acceder a su información y a sus enlaces de compra, y gestionar los diferentes roles de usuario.
@@ -156,10 +156,10 @@ iteración junto a la interfaz de usuario necesaria para el testeo de la misma, 
 prototipo generado con la herramienta Justinmind.
 </div>
 
-* [Sprint Review](./Documentos/Iteración\ 1/Sprint\ 1\ Retrospective.pdf)
-* [Sprint Retrospective]()
+* [Sprint Review](./Documentos/Iteracion1/review.pdf)
+* [Sprint Retrospective](./Documentos/Iteracion1/retrospective.pdf)
 
-### Iteración 2
+### **Iteración 2**
 <div align="justify"> 
 
 El objetivo que se ha diseñado para la segunda iteración es añadir a la aplicación de escritorio desarrollada en la primera iteración las
@@ -170,10 +170,10 @@ prototipo generado con la herramienta Justinmind.
 
 </div>
 
-* [Sprint Review]()
-* [Sprint Retrospective]()
+* [Sprint Review](./Documentos/Iteracion2/review.pdf)
+* [Sprint Retrospective](./Documentos/Iteracion2/retrospective.pdf)
 
-### Iteración 3
+### **Iteración 3**
 
 <div align="justify"> 
 El objetivo que se ha diseñado para esta primera iteración es tener una aplicación de escritorio que nos permita realizar benchmarking al equipo
@@ -184,10 +184,10 @@ prototipo generado con la herramienta Justinmind.
 
 </div>
 
-* [Sprint Review]()
-* [Sprint Retrospective]()
+* [Sprint Review](./Documentos/Iteracion3/review.pdf)
+* [Sprint Retrospective](./Documentos/Iteracion3/retrospective.pdf)
 
-### Iteración 4
+### **Iteración 4**
 
 <div align="justify"> 
 El objetivo que se ha diseñado para la cuarta iteración es añadir a la aplicación de escritorio desarrollada en la tercera iteración las
@@ -199,6 +199,6 @@ generado con la herramienta Justinmind.
 
 </div>
 
-* [Sprint Review]()
-* [Sprint Retrospective]()
+* [Sprint Review](./Documentos/Iteracion4/review.pdf)
+* [Sprint Retrospective](./Documentos/Iteracion4/retrospective.pdf)
 
