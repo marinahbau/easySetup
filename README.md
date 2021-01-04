@@ -96,7 +96,7 @@ Hemos realizado dos entregas:
 Se ha establecido un product backlog con un total de 30 HU estimadas entre 3 y 1 punto de historia.
 
 
-|HU|Descripcion|Estimacion|Iteracion|Entrega|
+|HU|Descripción|Estimación|Iteración|Entrega|
 |--|-----------|---------|---------|--------|
 |1|Un usuario podrá establecer el nivel de experiencia que tiene con la informática|1|1|1|
 |2|Un usuario puede introducir un presupuesto sobre el que obtener su sistema hardware|2|1|1|
@@ -134,11 +134,71 @@ Se ha establecido un product backlog con un total de 30 HU estimadas entre 3 y 1
 
 Se ha adoptado la metodología ágil Scrum, donde en cada entrega se han llevado a cabo dos iteraciones de dos semanas cada una.
 
+Durante el desarrollo de cada iteración se ha mantenido un tablero de trello y uno físico para gestionar el avance en el desarrollo, además de reuniones diarias
+
+En cada iteración tras el desarrollo se ha realizado una reunión "Sprint Review" con el Product Owner para repasar los objetivos de la iteración, y otra reunión "Sprint Retrospective" para mejorar la metodología que sigue el equipo
+
+Estas reuniones están documentadas y pueden verse en los documetos adjuntos en cada una de las iteraciones.
+
 # Equipo Scrum
 
-- Product Owner: Román LarrosaLewadoska, encargado del Product Backlog y de mantener la comunicación entre los stakeholders y el resto del equipo Scrum.
-- Scrum Master: Miguel Muñoz Molina. Encargado de mantener el dinamismo y la eficiencia del grupo. Respons
+- Product Owner: Román Larrosa Lewandowska, encargado del Product Backlog y de mantener la comunicación entre los stakeholders y el resto del equipo Scrum.
+- Scrum Master: Miguel Muñoz Molina. Encargado de mantener el dinamismo y la eficiencia del grupo.
+- Equipo de desarrollo: formado por Marina Hernández Bautista, Miguel Ángel Posadas Arraez. Encargados de la implementación y prototipado del proyecto.
 
 ## Entrega 1
 ### Iteración 1
+<div align="justify"> 
+El objetivo que se ha diseñado para esta primera iteración es tener una aplicación de escritorio que nos permita realizar búsquedas de piezas
+software mediante filtros, acceder a su información y a sus enlaces de compra, y gestionar los diferentes roles de usuario.
+Esta iteración va a generar un producto entregable hacia el cliente que consistirá en la aplicación y la funcionalidad asociada a la primera
+iteración junto a la interfaz de usuario necesaria para el testeo de la misma, a modo de prototipo, tanto en bocetos en papel como en un
+prototipo generado con la herramienta Justinmind.
+</div>
+
+* [Sprint Review](./Documentos/Iteración\ 1/Sprint\ 1\ Retrospective.pdf)
+* [Sprint Retrospective]()
+
+### Iteración 2
+<div align="justify"> 
+
+El objetivo que se ha diseñado para la segunda iteración es añadir a la aplicación de escritorio desarrollada en la primera iteración las
+funcionalidades que nos permitan la creación de usuarios y administradores y todas sus funcionalidades del servicio asociadas.
+Esta iteración va a generar un producto entregable hacia el cliente que consistirá en la aplicación y la funcionalidad asociada a la segunda
+iteración junto a la interfaz de usuario necesaria para el testeo de la misma, a modo de prototipo, tanto en bocetos en papel como en un
+prototipo generado con la herramienta Justinmind.
+
+</div>
+
+* [Sprint Review]()
+* [Sprint Retrospective]()
+
+### Iteración 3
+
+<div align="justify"> 
+El objetivo que se ha diseñado para esta primera iteración es tener una aplicación de escritorio que nos permita realizar benchmarking al equipo
+en el que se ejecuta nuestro sistema.
+Esta iteración va a generar un producto entregable hacia el cliente que consistirá en la aplicación y la funcionalidad asociada a la tercera
+iteración junto a la interfaz de usuario necesaria para el testeo de la misma, a modo de prototipo, tanto en bocetos en papel como en un
+prototipo generado con la herramienta Justinmind.
+
+</div>
+
+* [Sprint Review]()
+* [Sprint Retrospective]()
+
+### Iteración 4
+
+<div align="justify"> 
+El objetivo que se ha diseñado para la cuarta iteración es añadir a la aplicación de escritorio desarrollada en la tercera iteración las
+funcionalidades que nos permitan el empleo de la totalidad del foro de la aplicación y la creación y modificación de reseñas de productos
+hardware.
+Esta iteración va a generar un producto entregable hacia el cliente que consistirá en la aplicación y la funcionalidad asociada a la cuarta iteración
+junto a la interfaz de usuario necesaria para el testeo de la misma, a modo de prototipo, tanto en bocetos en papel como en un prototipo
+generado con la herramienta Justinmind.
+
+</div>
+
+* [Sprint Review]()
+* [Sprint Retrospective]()
 
