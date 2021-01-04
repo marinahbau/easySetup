@@ -5,9 +5,9 @@
 easySetup es una aplicación web destinada a facilitar la compra de ordenadores tanto portátiles como de sobremesa. Ofrecemos diferentes opciones como por ejemplo ofrecer un presupuesto en base a las preferencias del usuario o permitir al usuario limitar un presupuesto. Una vez escogidas todas sus preferencias, se mostrarán las distintas opciones y se ofrecerán posibles tiendas donde comprar dichos componentes o portátiles.
 
 La aplicación cuenta también con un sistema de benchmarking para medir el rendimiento de nuestro equipo y, gracias a este análisis, ofrecernos opciones de compra de componentes determinados para mejorar el rendimiento.
+</div>
 
 Puedes encontrar más información [aquí](./docs/practica0_1.pdf)
-</div>
 
 
 # Mapa Mental
@@ -60,6 +60,8 @@ Teresa instala easySetup en todos los equipos de su departamento para realizar u
 Guillermo quiere renovar la RAM de su equipo y sustituir su viejo disco duro HDD por uno SSD. Para ello accede a easySetup y selecciona los filtros en función de sus necesidades (capacidad de la RAM y del SSD entre otras). Gracias a easySetup obtiene exactamente los componentes que necesita, con varios enlaces de distintas tiendas para elegir el que prefiere. 
 </div>
 
+---
+
 **Escenario de Sergi Abelló**
 
 <div align="justify"> 
@@ -67,8 +69,7 @@ El ordenador portatil de Sergi se ha estropeado y Sergi decide comprar un ordena
 </div>
 
 # Documento de Visión 
-Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes encontrarlo [aquí](./Documentos/)
-
+Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes encontrarlo [aquí](https://github.com/marinahbau/easySetup/tree/main/Documentos)
 # Plan de entregas del producto
 ## Velocidad del equipo
 Las iteraciones que hemos realizado han tenido una duración de 2 semanas. La estimiación realizada del esfuerzo de cad auna de las historias de usuario se ha expresado en días ideales de programación. En nuestro entorno de trabajo estimamos que un día ideal de programación *(1,6h)* se va a corresponder con 3 o 4 días reales de trabajo.
