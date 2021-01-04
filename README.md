@@ -58,19 +58,16 @@ Teresa instala easySetup en todos los equipos de su departamento para realizar u
 
 <div align="justify"> 
 Guillermo quiere renovar la RAM de su equipo y sustituir su viejo disco duro HDD por uno SSD. Para ello accede a easySetup y selecciona los filtros en función de sus necesidades (capacidad de la RAM y del SSD entre otras). Gracias a easySetup obtiene exactamente los componentes que necesita, con varios enlaces de distintas tiendas para elegir el que prefiere. 
-</div>**Escenario de Sergi Abelló**
+</div>
 
-
-# Documento de Visión 
-
-
+**Escenario de Sergi Abelló**
 
 <div align="justify"> 
 El ordenador portatil de Sergi se ha estropeado y Sergi decide comprar un ordenador. Gracias a sus amigos descrube easySetup. Tras especificar su presupuesto y sus conocimentos de informática puede elegir el equipo con los componentes que quiere, y en poco tiempo recibe el equipo.
 </div>
 
-
----Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes encontrarlo [aquí](./Documentos/)
+# Documento de Visión 
+Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes encontrarlo [aquí](./Documentos/)
 
 # Plan de entregas del producto
 ## Velocidad del equipo
@@ -170,9 +167,12 @@ prototipo generado con la herramienta Justinmind.
 
 </div>
 
+
+
 * [Sprint Review](./Documentos/Iteracion2/review.pdf)
 * [Sprint Retrospective](./Documentos/Iteracion2/retrospective.pdf)
 
+## Entrega 2
 ### **Iteración 3**
 
 <div align="justify"> 
@@ -202,3 +202,18 @@ generado con la herramienta Justinmind.
 * [Sprint Review](./Documentos/Iteracion4/review.pdf)
 * [Sprint Retrospective](./Documentos/Iteracion4/retrospective.pdf)
 
+
+
+# Demostraciones del funcionamiento
+## **Home**
+![Pantalla principal](./assets/home.png)
+## **Login**
+![Login](./assets/login.png)
+## **Experiencia**
+![Seleccionar experiencia](./assets/experiencia.png)
+## **Filtros avanzados**
+![Filtros avanzados](./assets/filtros_avanzados.png)
+## **Listado de componentes**
+![Listado de componentes](./assets/listado.png)
+## **Listado de foros**
+![Listado de Foros](./assets/foros.png)
