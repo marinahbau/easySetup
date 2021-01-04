@@ -1,5 +1,5 @@
-# easySetup
- Una única aplicación para comparar tu hardware, descubrir piezas nuevas, conocer gente con tus intereses y mantener tu equipo a punto con los últimos controladores y actualizaciones
+title: easySetup
+description: Una única aplicación para comparar tu hardware, descubrir piezas nuevas, conocer gente con tus intereses y mantener tu equipo a punto con los últimos controladores y actualizaciones
 
 # Proyecto elegido
 
@@ -10,3 +10,6 @@ La aplicación cuenta también con un sistema de benchmarking para medir el rend
 # Mapa Mental
 ![Mapa mental](./assets/mapaMental.PNG)
 
+# Personas
+Para el desarrollo de este software, hemos utilizado diversas personas para cumplir los requisitos de distintos tipos de usuarios en cuanto a usabilidad y accesibilidad del proyecto.
+Las personas creadas son:
