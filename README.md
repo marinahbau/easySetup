@@ -69,7 +69,7 @@ El ordenador portatil de Sergi se ha estropeado y Sergi decide comprar un ordena
 </div>
 
 # Documento de Visión 
-Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes encontrarlo [aquí](https://github.com/marinahbau/easySetup/tree/main/Documentos)
+Se crea un documento de visión con todos los aspectos relacionados con la comercialización y explotación de easySetup. Puedes encontrarlo [aquí](./docs/vision.pdf)
 # Plan de entregas del producto
 ## Velocidad del equipo
 Las iteraciones que hemos realizado han tenido una duración de 2 semanas. La estimiación realizada del esfuerzo de cad auna de las historias de usuario se ha expresado en días ideales de programación. En nuestro entorno de trabajo estimamos que un día ideal de programación *(1,6h)* se va a corresponder con 3 o 4 días reales de trabajo.
